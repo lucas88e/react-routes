@@ -3,7 +3,7 @@ const projects = [
     id: 1,
     name: 'Project 1',
     image:
-      'https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Placeholder_view_vector.svg/681px-Placeholder_view_vector.svg.png',
+      'https://www.ja-producciones.com/media/k2/items/cache/90701d02ae3da0e5a21abbd900c25748_XL.jpg',
     description: 'This is a description of project 1',
     url: 'https://www.google.com',
   },
@@ -11,7 +11,7 @@ const projects = [
     id: 2,
     name: 'Project 2',
     image:
-      'https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Placeholder_view_vector.svg/681px-Placeholder_view_vector.svg.png',
+      'https://www.josemariapou.com/media/upload/gif/cache/proyecto_dos_imdb_1500573190_480.jpg',
     description: 'This is a description of project 2',
     url: 'https://www.google.com',
   },
@@ -19,7 +19,7 @@ const projects = [
     id: 3,
     name: 'Project 3',
     image:
-      'https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Placeholder_view_vector.svg/681px-Placeholder_view_vector.svg.png',
+      'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVrzi1a09P9XYzWvl6ACTBB2g-JCXdGt_wiw&s',
     description: 'This is a description of project 3',
     url: 'https://www.google.com',
   },
